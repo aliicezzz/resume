@@ -27,7 +27,7 @@ fetch("data.json")
         data.education.forEach((edu) => {
             const eduDiv = document.createElement("div");
             eduDiv.innerHTML = `
-        <strong>${edu.degree} in ${edu.field}</strong>
+        <strong>${edu.degree} em ${edu.field}</strong>
         <p class="date">${edu.date}</p>
       `;
             educationContainer.appendChild(eduDiv);

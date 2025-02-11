@@ -1,204 +1,108 @@
 {
-    "name": "Roger Oliveira",
-    "title": "Software Engineer",
+    "name": "Alice Ribeiro",
+    "title": "Desenvolvedora de Software",
     "location": "Porto Alegre, Rio Grande do Sul, Brazil",
-    "phone": "+55 (051) 9 9883 8883",
-    "email": "roger.dev.br@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/rogerpoliver/",
-    "github": "https://github.com/rogerpoliver",
-    "summary": "I am a software developer with experience since 2015 in both established corporations like HP, Dell, and ADP, as well as dynamic startup environments. My expertise covers a wide range of languages and frameworks. I hold a degree in Systems Analysis and Development from FIAP, along with postgraduate studies in Data Science, Software Engineering, and Mobile Development. Currently, I am studying Domain-Driven Design (DDD) and applying it to a project called '<a href=\"https://github.com/rogerpoliver/ddd-forum\" target=\"_blank\">DDD Forum</a>', available on my GitHub. I am driven by a passion for creating software that makes a meaningful impact, simplifying processes, and improving the lives of users and clients through innovative and efficient solutions.",
+    "phone": "+55 (051) 9 9167 7749",
+    "email": "aliceribeiro.work@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/aliceribeeiro/",
+    "github": "https://github.com/aliicezzz",
+    "summary": "Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como desenvolvedora em uma startup em Porto Alegre. Estou focada em aprimorar meus conhecimentos em JavaScript, Node.js e React, aplicando essas tecnologias em projetos práticos para ampliar minha experiência. Meu objetivo é unir minha paixão pela tecnologia ao desenvolvimento de soluções inovadoras e eficientes, aprimorando constantemente minhas habilidades técnicas para contribuir com o crescimento das empresas.",
     "experience": [
         {
-            "title": "Senior Developer",
-            "company": "ADP Brazil Labs",
-            "date": "May 2022 - Present",
+            "title": "Desenvolvedora Júnior",
+            "company": "Lydia Sistemas",
+            "date": "Setembro 2023 - Presente",
             "tasks": [
-                "Developing agnostic micro front-end solutions using StencilJS, ensuring seamless integration with frameworks like React.js, Angular, and other SPA systems.",
-                "Optimizing backend operations through robust and efficient implementations in Node.js.",
-                "Created solutions to structure unstructured data, leveraging advanced Language Models like Mistral, GPT-3.5, and GPT-4 for enhanced user experiences and data workflows.",
-                "Contributing to the Embedded Payroll project by integrating systems into US banking platforms, addressing complex challenges related to security and multi-technology compatibility."
+                "Correção de bugs e implementação de melhorias em sistemas utilizando PHP 5.2.",
+                "Desenvolvimento e integração de chatbots automatizados para o WhatsApp utilizando a API oficial do Meta.",
+                "Realização de testes e requisições de APIs utilizando Postman e terminal, garantindo a validação e eficiência das integrações.",
+                "Implementação, instalação e configuração de softwares e sistemas operacionais.",
+                "Desenvolvimento e manutenção de manuais e documentações, incluindo procedimentos e base de conhecimento, para apoiar usuários e equipes no uso de sistemas e ferramentas.",
+                "Acompanhamento da saúde de servidores, redes e aplicações, realizando monitoramento contínuo para prevenir falhas e garantir a estabilidade e desempenho dos sistemas.",
+                "Realização de consultas e gerenciamento de banco de dados no MariaDB utilizando o DBeaver."
             ]
         },
         {
-            "title": "Senior Developer",
-            "company": "Equipe HUB",
-            "date": "Nov 2021 - May 2022",
+            "title": "Analista de Suporte Pleno",
+            "company": "Lydia Sistemas",
+            "date": "Julho 2023 - Setembro 2023",
             "tasks": [
-                "Led the technical development of BuzzFeed Brazil's website and CMS, ensuring high-quality deliverables.",
-                "Managed a team of five developers, overseeing sprint planning, backlog prioritization, and team engagement.",
-                "Collaborated with BuzzFeed's global team to align local developments with international quality standards and practices."
+                "Realização de interações com usuários para garantir o funcionamento adequado de sistemas e ferramentas, antecipando e resolvendo possíveis problemas. Responsável pelo atendimento a clientes da carteira curva A, solucionando questões críticas dentro dos SLAs 0 e 1, com foco em eficiência e satisfação do cliente.",
+                "Identificação e resolução de falhas em software, redes e sistemas, garantindo a continuidade operacional. Análise e monitoramento de logs de sistemas e servidores para detectar possíveis falhas e realizar ações corretivas preventivas",
+                "Registro e acompanhamento de chamados, garantindo a devida priorização conforme a criticidade do SLA. Foco na resolução eficiente de problemas, garantindo que os tickets sejam tratados dentro dos prazos estabelecidos e conforme as necessidades dos clientes.",
+                "Orientação e suporte a colaboradores e clientes no uso adequado de sistemas e ferramentas, proporcionando treinamentos personalizados para garantir a eficiência e autonomia no uso das soluções tecnológicas."
             ]
         },
         {
-            "title": "Senior Software Engineer",
-            "company": "Dell Technologies",
-            "date": "Sep 2021 - Nov 2021",
+            "title": "Analista de Suporte Júnior",
+            "company": "Lydia Sistemas",
+            "date": "Janeiro 2023 - Julho 2023",
             "tasks": [
-                "Designed and implemented microservices tailored to meet the specific needs of LATAM Finance IT systems.",
-                "Collaborated with international teams from Latin America to ensure cohesive development across regions.",
-                "Contributed to the creation of critical microservices using .NET technologies, enhancing the software's performance and scalability."
-            ]
-        },
-        {
-            "title": "Software Engineer",
-            "company": "ESSS",
-            "date": "Jun 2021 - Sep 2021",
-            "tasks": [
-                "Developed advanced features for Rocky DEM, a 3D particle simulation desktop application.",
-                "Utilized C++ for API development and Python with QT for creating a user-friendly graphical interface.",
-                "Collaborated with multi-disciplinary teams to enhance simulation accuracy and performance."
-            ]
-        },
-        {
-            "title": "Software Design Engineer III",
-            "company": "HP inc",
-            "date": "Nov 2020 - Jun 2021",
-            "tasks": [
-                "Led the migration of a monolithic application to a cloud-native microservices architecture for the Protrack3 project.",
-                "Established automated testing standards, focusing on robust unit tests and front-end behavioral testing."
-            ]
-        },
-        {
-            "title": "Software Design Engineer II",
-            "company": "HP inc",
-            "date": "May 2019 - Oct 2020",
-            "tasks": [
-                "Enhanced and maintained features for the Protrack2 ASP.NET application, used for tracking R&D project hours.",
-                "Developed a financial management module for tracking project expenses and organizing critical accounting records."
-            ]
-        },
-        {
-            "title": "Software Design Engineer I",
-            "company": "HP inc",
-            "date": "May 2017 - Apr 2019",
-            "tasks": [
-                "Maintained and supported a legacy ASP.NET Webforms application, ensuring its stability and reliability.",
-                "Assisted in software configuration management, including monitoring virtual machines and managing version control repositories."
-            ]
-        },
-        {
-            "title": "Intern",
-            "company": "ACCERA, Supply and Sales Empowered",
-            "date": "Jan 2015 - Nov 2016",
-            "tasks": [
-                "Analyzed and reported supply chain data using Microsoft Excel, delivering actionable insights.",
-                "Automated recurring tasks with Python and Shell Scripting, improving team productivity.",
-                "Managed and maintained databases with Microsoft SQL Server to ensure data integrity and accessibility."
+                "Responsável por receber e registrar chamados de usuários através de telefone, chat, e-mail ou presencialmente, garantindo o encaminhamento adequado e a solução eficiente dos problemas.",
+                "Resolução de problemas de baixo a médio nível de complexidade, como dificuldades com aplicativos, hardware, login e conectividade simples, garantindo uma solução rápida e eficiente.",
+                "Encaminhamento de chamados para equipes especializadas (N2 ou N3) quando o problema é mais complexo ou fora da área de atuação.",
+                "Acompanhamento do status dos chamados, fornecendo atualizações regulares aos usuários sobre o andamento da resolução dos problemas."
             ]
         }
     ],
     "education": [
         {
-            "degree": "MBA",
-            "field": "Leadership and People Management",
-            "institution": "Descomplica Faculdade Digital",
-            "date": "2024 - 2025"
-        },
-        {
-            "degree": "Specialization Degree",
-            "field": "Cross-platform Mobile App Development",
-            "institution": "Descomplica Faculdade Digital",
-            "date": "2023 - 2024"
-        },
-        {
-            "degree": "Specialization Degree",
-            "field": "Data Science",
-            "institution": "UniRitter",
-            "date": "2020 - 2021"
-        },
-        {
-            "degree": "Technologist Degree",
-            "field": "Computer Systems Analysis and Development",
-            "institution": "FIAP",
-            "date": "2017 - 2019"
+            "degree": "Graduação",
+            "field": "Analise e Desenvolvimento de Sistemas",
+            "institution": "Universidade Estácio de Sá (UNESA) ",
+            "date": "2023 - Presente"
         }
     ],
     "skills": [
         "JavaScript",
         "TypeScript",
         "Node.js",
-        "Deno",
         "React.js",
-        "C#",
+        "PHP",
         "Python",
-        "NeoVim",
-        "Linux",
-        "Docker"
+        "Linux"
     ],
     "certifications": [
         {
-            "name": "EF SET English Certificate 73/100 (C2 Proficient)",
-            "institution": "EF SET",
-            "date": "May 2024"
-        },
-        {
-            "name": "NLW Expert Python Track",
+            "name": "Gestão de Tempo",
             "institution": "Rocketseat",
-            "date": "Feb 2024"
+            "date": "Nov 2024"
         },
         {
-            "name": "Development of Modern and Scalable Applications with Microservices",
-            "institution": "Full Cycle",
-            "date": "Mar 2022"
-        },
-        {
-            "name": "JavaScript Fullstack Bootcamp",
+            "name": "Git e GitHub",
             "institution": "Rocketseat",
-            "date": "Oct 2020"
+            "date": "Ago 2024"
         },
         {
-            "name": ".NET Bootcamp",
-            "institution": "Alura",
-            "date": "Sep 2020"
+            "name": "NLW Unite - DevOps",
+            "institution": "Rocketseat",
+            "date": "Abr 2024"
         },
         {
-            "name": "React JS Bootcamp",
-            "institution": "Alura",
-            "date": "Sep 2020"
+            "name": "NLW Unite - React.js",
+            "institution": "Rocketseat",
+            "date": "Abr 2024"
         },
         {
-            "name": "Professional Qualification Certificate in Digital Entrepreneurship and IT Management",
-            "institution": "FIAP",
-            "date": "Dec 2019"
+            "name": "AAC - Lógica de Programação",
+            "institution": "Universidade Estácio de Sá (UNESA)",
+            "date": "Fev 2024"
         },
         {
-            "name": "Professional Qualification Certificate in Mobile Application Development",
-            "institution": "FIAP",
-            "date": "Dec 2019"
+            "name": "Bootcamp JavaScript Discover - Especializar",
+            "institution": "Rocketseat",
+            "date": "Jul 2023"
         },
         {
-            "name": "Professional Qualification Certificate in System Analysis and Web Prototyping",
-            "institution": "FIAP",
-            "date": "Jan 2019"
-        },
-        {
-            "name": "Professional Qualification Certificate in Web 2.0 Developer and Designer",
-            "institution": "FIAP",
-            "date": "Jan 2019"
+            "name": "Bootcamp JavaScript Discover - Conectar",
+            "institution": "Rocketseat",
+            "date": "May 2022"
         }
     ],
     "languages": [
-        "Portuguese: Native",
-        "English: C2 Proficient (EF SET)"
+        "Português: Nativo",
+        "English: A1 Beginner"
     ],
-    "volunteering": [
-        {
-            "role": "Hour of Code Instructor",
-            "organization": "HP",
-            "date": "May 2018 - Apr 2019",
-            "description": "Taught programming to teenagers from the local community at the Amparo Santa Cruz Institution in Porto Alegre. This initiative aimed to provide better opportunities and contribute to community development through programming education."
-        }
-    ],
-    "opensource": [
-        {
-            "project": "Deno - Standard Library",
-            "description": "Fixed an example in the JSDocs for the Expect.ObjectContaining in the testing module.",
-            "link": "https://github.com/denoland/std/pull/6357"
-        },
-        {
-            "project": "Microsoft - TypeScript Website",
-            "description": "Translated some files and examples from English to Portuguese as part of a community effort.",
-            "link": "https://github.com/microsoft/TypeScript-Website/pull/1054"
-        }
-    ]
+    "volunteering": [],
+    "opensource": []
 }
